@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="guinda_primary_light">#6B2E5F</color>
+    <color name="guinda_secondary_light">#804a75</color>
+    <color name="guinda_primary_dark">#D7B5D1</color>
+    <color name="guinda_secondary_dark">#b18ab0</color>
+
+    <color name="azul_primary_light">#003D6D</color>
+    <color name="azul_secondary_light">#005699</color>
+    <color name="azul_primary_dark">#A4C8E6</color>
+    <color name="azul_secondary_dark">#83add1</color>
+</resources>
